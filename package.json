@@ -1,6 +1,6 @@
 {
   "name": "language-latex-plus",
-  "description": "LaTeX language support with tree-sitter grammar for Pulsar",
+  "description": "LaTeX language support with tree-sitter grammar",
   "version": "0.1.0",
   "license": "MIT",
   "engines": {
