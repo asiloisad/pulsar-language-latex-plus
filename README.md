@@ -4,9 +4,9 @@ LaTeX language with modern tree-sitter grammar and legacy TextMate grammar.
 
 ## Features
 
-- **Tree-sitter grammar** for LaTeX with syntax highlighting, code folding, indentation, and symbol navigation
-- **TextMate grammar** fallback for LaTeX, TeX, BibTeX, Beamer, Memoir, and log files
-- **166 snippets** for common LaTeX constructs (environments, sections, math, etc.)
+- **Tree-sitter grammar**: LaTeX with syntax highlighting, code folding, indentation, and symbol navigation.
+- **TextMate grammar**: fallback for LaTeX, TeX, BibTeX, Beamer, Memoir, and log files.
+- **166 snippets**: for common LaTeX constructs (environments, sections, math, etc.).
 
 ## Installation
 
