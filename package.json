@@ -1,6 +1,6 @@
 {
   "name": "language-latex-plus",
-  "description": "LaTeX language support with tree-sitter grammar",
+  "description": "LaTeX language with modern tree-sitter grammar and legacy TextMate grammar",
   "version": "1.0.1",
   "license": "MIT",
   "engines": {
