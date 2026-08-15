@@ -13,7 +13,7 @@
     "LaTeX",
     "language"
   ],
-  "repository": "https://github.com/asiloisad/pulsar-language-latex-plus",
+  "repository": "https://github.com/asiloisad-pulsar/language-latex-plus",
   "consumedServices": {
     "hyperlink.injection": {
       "versions": {
