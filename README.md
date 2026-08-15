@@ -10,7 +10,7 @@ LaTeX language with modern tree-sitter grammar and legacy TextMate grammar.
 
 ## Installation
 
-To install `language-latex-plus` search for [language-latex-plus](https://web.pulsar-edit.dev/packages/language-latex-plus) in the Install pane of the Pulsar settings or run `ppm install language-latex-plus`. Alternatively, you can run `ppm install asiloisad/pulsar-language-latex-plus` to install a package directly from the GitHub repository.
+To install `language-latex-plus` search for [language-latex-plus](https://web.pulsar-edit.dev/packages/language-latex-plus) in the Install pane of the Pulsar settings or run `ppm install language-latex-plus`. Alternatively, you can run `ppm install asiloisad-pulsar/language-latex-plus` to install a package directly from the GitHub repository.
 
 ## Tree-sitter (modern)
 
